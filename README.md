@@ -1,6 +1,6 @@
 # PNU_3991_AR
 # آناهیتا طاهری
-- [PNU_3991_AR](https://github.com/Taheri676/PNU_3991_AR)
+- [PNU_3991_AR](https://github.com/Taheri6760/PNU_3991_AR)
 - [Resume](https://bahram200.github.io/Behnejad/) 
 - [SOP](https://bahram200.github.io/SOP/)
 - [GitHub](https://github.com/bahram200)
