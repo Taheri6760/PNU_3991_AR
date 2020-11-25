@@ -1,7 +1,7 @@
 # PNU_3991_AR
 # آناهیتا طاهری
 - [PNU_3991_AR](https://github.com/Taheri6760/PNU_3991_AR)
-- [Resume](https://Taheri6760.github.io/resume/) 
+- [Resume](https://taheri6760.github.io/Resume/) 
 - [SOP](https://Taheri6760.github.io/SOP/)
 - [GitHub](https://github.com/Taheri6760)
 - [Certificate](https://github.com/Taheri6760/JS-Certification/blob/main/certificate.pdf)
