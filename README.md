@@ -4,7 +4,7 @@
 - [Resume](https://Taheri6760.github.io/resume/) 
 - [SOP](https://Taheri6760.github.io/SOP/)
 - [GitHub](https://github.com/Taheri6760)
-- [Certificate](https://github.com/Taheri6760/JS_certificate/certificate.jpeg)
+- [Certificate](https://github.com/Taheri6760/JS-Certification/blob/main/certificate.pdf)
    
 <table style="width:100%" >
             <tr>
