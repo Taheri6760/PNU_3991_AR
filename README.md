@@ -4,32 +4,7 @@
 - [Resume](https://Taheri6760.github.io/resume/) 
 - [SOP](https://Taheri6760.github.io/SOP/)
 - [GitHub](https://github.com/Taheri6760)
-- [Certificate](https://github.com/taheri6760/JS_certificate/blob/main/certificate.jpeg)
-- [Presentation link for Software development methodologies](https://drive.google.com/file/d/1daqyU-ODmUaHQWtp5ydZk6c3KWZ2Ei7_/view?usp=sharing)
-- [Presentation link for Software development methodologies](https://drive.google.com/file/d/1qnl7DZNxUxAnIUlth7RpxFFnCYVyfGUO/view?usp=sharing)
------------------
-
-1. G-A01
-   1. [ASE-07مرضیه بها ءلو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/07_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D9%87%D8%A7%D9%84%D9%88%D9%87%D9%88%D8%B1%D9%87)
-    1. [ASE-08بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/08_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)    
-    1. [ASE-14علیرضا رزمجو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/14_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%B1%D8%B2%D9%85%D8%AC%D9%88) 
-      
-1. G-S01
-    1. [SA-05مرضیه بهاءلو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/05_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D9%87%D8%A7%D9%84%D9%88%D9%87%D9%88%D8%B1%D9%87)
-    1. [SA-06بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/06_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)
-    1. [SA-15علیرضا رزمجو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/15_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%B1%D8%B2%D9%85%D8%AC%D9%88) 
-    1. [SA-16بهناز رفیعی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/16_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D8%B1%D9%81%D9%8A%D8%B9%D9%8A) 
-    1. [SA-22زهرا صالح زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/22_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87) 
-    1. [SA-24پوریا صفری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/24_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)
-    1. [SA-26مهتاب محمد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/26_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF)
-1. G-L01
-    1. [SDM-04مرضیه بهاء لو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/04_%D9%85%D8%B1%D8%B6%D9%8A%D9%87%20%D8%A8%D9%87%D8%A7%D9%84%D9%88%D9%87%D9%88%D8%B1%D9%87) 
-    1. [SDM-05بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/05_%D8%A8%D9%87%D8%B1%D8%A7%D9%85%20%D8%A8%D9%87%D9%86%DA%98%D8%A7%D8%AF)
-    1. [SDM-14بهناز رفیعی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/14_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D8%B1%D9%81%D9%8A%D8%B9%D9%8A) 
-     
-    1. [SDM-21زهرا صالح زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/21_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%B2%D8%A7%D8%AF%D9%87)
-    1. [SDM-24پوریا صفری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/24_%D9%BE%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B5%D9%81%D8%B1%D9%8A)
-    1. [SDM-28مهتاب محمد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies/1115282_01/28_%D9%85%D9%87%D8%AA%D8%A7%D8%A8%20%D9%85%D8%AD%D9%85%D8%AF)  
+- [Certificate](https://github.com/Taheri6760/JS_certificate/blob/main/certificate.jpeg)
    
 <table style="width:100%" >
             <tr>
@@ -45,10 +20,10 @@
             </tr>
             <tr>
               <th></th>
-              <th style="background-color: dimgrey;">ترجمه کتاب</th>
-              <th style="background-color: darkgray;">Javascript</th>
-              <th style="background-color: darkorange;">مطالعه دروس</th>
-              <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+              <th style="background-color: dimgrey;">ترجمه مقاله</th>
+              <th style="background-color: darkgray;">مطالعه دروس</th>
+              <th style="background-color: darkorange;">امور منزل</th>
+              <th style="background-color: darkgray;">سرکار</th>
               <th style="background-color: darkcyan;">سرکار</th>
               <th style="background-color: darkcyan;">سرکار</th>
               <th style="background-color: darkcyan;">سرکار</th>
@@ -56,10 +31,10 @@
             </tr>
              <tr>
                 <th></th>
-                <th style="background-color: dimgrey;">ترجمه کتاب</th>
-                <th style="background-color: darkgray;">Javascript</th>
-                <th style="background-color: darkorange;">مطالعه دروس</th>
-                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: dimgrey;">ترجمه مقاله</th>
+                <th style="background-color: darkgray;">مطالعه دروس</th>
+                <th style="background-color: darkorange;">امور منزل</th>
+                <th style="background-color: darkgray;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
@@ -67,10 +42,10 @@
             </tr>
              <tr>
                <th></th>
-                <th style="background-color: dimgrey;">ترجمه کتاب</th>
-                <th style="background-color: darkgray;">Javascript</th>
-                <th style="background-color: darkorange;">مطالعه دروس</th>
-                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: dimgrey;">ترجمه مقاله</th>
+                <th style="background-color: darkgray;">مطالعه دروس</th>
+                <th style="background-color: darkorange;">امور منزل</th>
+                <th style="background-color: darkgray;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
@@ -78,10 +53,10 @@
             </tr>
              <tr>
                  <th></th>
-                <th style="background-color: dimgrey;">ترجمه کتاب</th>
-                <th style="background-color: darkgray;">Javascript</th>
-                <th style="background-color: darkorange;">مطالعه دروس</th>
-                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: dimgrey;">ترجمه مقاله</th>
+                <th style="background-color: darkgray;">مطالعه دروس</th>
+                <th style="background-color: darkorange;">امور منزل</th>
+                <th style="background-color: darkgray;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
@@ -89,10 +64,10 @@
             </tr>
              <tr>
                 <th></th>
-                <th style="background-color: dimgrey;">ترجمه کتاب</th>
-                <th style="background-color:red;">کلاس مهندسی نیازمندی ها</th>
-                <th style="background-color: darkorange;">مطالعه دروس</th>
-                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
+                <th style="background-color: dimgrey;">ترجمه مقاله</th>
+                <th style="background-color:red;">مطالعه دروس</th>
+                <th style="background-color: darkorange;">امور منزل</th>
+                <th style="background-color: darkgray;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
@@ -100,13 +75,13 @@
             </tr>
              <tr>
                 <th></th>
-                <th style="background-color: dimgrey;">ترجمه کتاب</th>
-                <th style="background-color:red;">کلاس مهندسی نیازمندی ها</th>
+                <th style="background-color: dimgrey;">ترجمه مقاله</th>
+                <th style="background-color:red;">مطالعه دروس</th>
                 <th style="background-color: darkorange;">مطالعه دروس</th>
-                <th style="background-color: darkgray;">تمرین برنامه نویسی</th>
-                <th style="background-color: darkcyan;">کلاس متودولوژی ایجاد نرم افزار</th>
-                <th style="background-color: darkcyan;">کلاس معماری نرم افزار</th>
-                <th style="background-color: darkcyan;">کلاس مهندسی نرم افزار</th>
+                <th style="background-color: darkgray;">امور منزل</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
+                <th style="background-color: darkcyan;">سرکار</th>
               <th>پنج شنبه</th>
             </tr>
           </table> 
