@@ -1,10 +1,10 @@
 # PNU_3991_AR
 # آناهیتا طاهری
 - [PNU_3991_AR](https://github.com/Taheri6760/PNU_3991_AR)
-- [Resume](https://bahram200.github.io/Behnejad/) 
-- [SOP](https://bahram200.github.io/SOP/)
-- [GitHub](https://github.com/bahram200)
-- [Certificate](https://github.com/bahram200/Proof-javascript-certificate/blob/main/certificate.jpeg)
+- [Resume](https://Taheri6760.github.io/resume/) 
+- [SOP](https://Taheri6760.github.io/SOP/)
+- [GitHub](https://github.com/Taheri6760)
+- [Certificate](https://github.com/taheri6760/JS_certificate/blob/main/certificate.jpeg)
 - [Presentation link for Software development methodologies](https://drive.google.com/file/d/1daqyU-ODmUaHQWtp5ydZk6c3KWZ2Ei7_/view?usp=sharing)
 - [Presentation link for Software development methodologies](https://drive.google.com/file/d/1qnl7DZNxUxAnIUlth7RpxFFnCYVyfGUO/view?usp=sharing)
 -----------------
