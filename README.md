@@ -1,10 +1,10 @@
 # PNU_3991_AR
 # آناهیتا طاهری
+- [GitHub](https://github.com/Taheri6760)
 - [PNU_3991_AR](https://github.com/Taheri6760/PNU_3991_AR)
 - [Resume](https://taheri6760.github.io/Resume/) 
 - [SOP](https://Taheri6760.github.io/SOP/)
-- [GitHub](https://github.com/Taheri6760)
-- [Certificate](https://taheri6760.github.io/JS-Certification/certificate.pdf)
+- [JS-Certificate](https://taheri6760.github.io/JS-Certification/certificate.pdf)
    
 <table style="width:100%" >
             <tr>
@@ -42,8 +42,8 @@
             </tr>
              <tr>
                <th></th>
-                <th style="background-color: dimgrey;">ترجمه مقاله</th>
-                <th style="background-color: darkgray;">مطالعه دروس</th>
+                <th style="background-color: dimgrey;">مطالعه دروس</th>
+                <th style="background-color: darkgray;">کلاس دانشگاه</th>
                 <th style="background-color: darkorange;">امور منزل</th>
                 <th style="background-color: darkgray;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
@@ -77,7 +77,7 @@
                 <th></th>
                 <th style="background-color: dimgrey;">ترجمه مقاله</th>
                 <th style="background-color:red;">مطالعه دروس</th>
-                <th style="background-color: darkorange;">مطالعه دروس</th>
+                <th style="background-color: darkorange;">امور منزل</th>
                 <th style="background-color: darkgray;">امور منزل</th>
                 <th style="background-color: darkcyan;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
