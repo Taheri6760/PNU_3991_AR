@@ -9,7 +9,7 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://taheri6760.github.io/AT_cv_checklist_ar_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://taheri6760.github.io/PNU_3991_AR/AT_cv_checklist_ar_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://AT_generalsection_checklist_ar_3991.pdf)
 
 ##  بخش دروس کارشناسی
