@@ -1,8 +1,4 @@
-<video width="320" height="240" controls="controls">
- <source src="wallpaper.mkv" type="video/mp4" />
- <source src="wallpaper.mkv" type="video/ogg" />
- Your browser does not support the video element.
-</video>
+
 # PNU_3991_AR
 # آناهیتا طاهری
 - [GitHub](https://github.com/Taheri6760)
@@ -17,7 +13,7 @@
 - [خلاصه ارزیابی بخش عمومی](AT_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/mir-mohammad/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/AT_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/taheri6760/PNU_3991_AR/main/AT_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 # گروه ها
 1. [G-T01](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01)
     1. [_TLM01-56 میرمحمد کمالی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/56_%D9%85%D9%8A%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D9%83%D9%85%D8%A7%D9%84%D9%8A)    
