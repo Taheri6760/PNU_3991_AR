@@ -9,8 +9,8 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](AT_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](AT_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://AT_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://AT_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
 - [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/taheri6760/PNU_3991_AR/main/AT_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
