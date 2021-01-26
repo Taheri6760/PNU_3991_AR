@@ -10,7 +10,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://taheri6760.github.io/PNU_3991_AR/AT_cv_checklist_ar_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://AT_generalsection_checklist_ar_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://taheri6760.github.io/PNU_3991_AR/AT_generalsection_checklist_ar_3991.pdf)
 
 ##  بخش دروس کارشناسی
 - [خلاصه ارزیابی درس نظریه زبان و ماشین](https://github.com/taheri6760/PNU_3991_AR/main/AT_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
